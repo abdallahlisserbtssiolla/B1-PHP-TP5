@@ -1,0 +1,14 @@
+-------------------Exercice 1-----------------
+afficherNbPassagers.php
+-------------------Exercice 2-----------------
+calculerNbTotalPassagers.php
+-------------------Exercice 3-----------------
+compterNbTraversesNonRentables.php
+-------------------Exercice 4-----------------
+listerTraversesRentables.php
+-------------------Exercice 5-----------------
+modifierNbPassagers.php
+-------------------Exercice 6-----------------
+rechercherPour52Passagers.php
+-------------------Exercice 7-----------------
+ninitialiserPourLe2309.php
